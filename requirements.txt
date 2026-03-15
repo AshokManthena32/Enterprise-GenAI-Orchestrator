@@ -13,3 +13,9 @@ langchain-openai
 langchain-community
 semantic-kernel
 loguru
+pyautogen
+azure-identity
+azure-keyvault-secrets
+azure-monitor-opentelemetry
+redis
+numpy
